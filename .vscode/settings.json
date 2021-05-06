@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\PF\\.platformio\\penv\\Scripts;C:\\Users\\PF\\.platformio\\penv;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\HP\\HP Performance Advisor;C:\\Program Files\\WindowsPowerShell\\Scripts\\HP.ClientScriptLibrary;;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\PuTTY\\;C:\\Users\\PF\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\PF\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\HP\\HP Performance Advisor;C:\\Program Files\\WindowsPowerShell\\Scripts\\HP.ClientScriptLibrary;;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\PuTTY\\;C:\\Users\\PF\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\PF\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
